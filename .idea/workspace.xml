@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cf3e5e8-f835-47f9-bde6-bd39278f3058" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KungfuJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/helloworld-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/arraylist/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/demo/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/demo/MovieOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/demo/SubChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/demo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/javabean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/javabean/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/math/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/math/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/math/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/modifier/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/modifier/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/oop/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/oop/FZTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/oop/Oop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/oop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/oop/Z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/shortcutkey/ShortCutKeyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworld-app/src/com/rhtect/string/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TQyJC1g7Gvk7IkMwretv4gq8K7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration name="FZTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rhtect.oop.FZTest" />
+      <module name="helloworld-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhtect.oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rhtect.math.Test1" />
+      <module name="helloworld-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhtect.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rhtect.math.Test2" />
+      <module name="helloworld-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhtect.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.rhtect.math.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rhtect.math.Test" />
+      <module name="helloworld-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhtect.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.rhtect.string.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rhtect.string.Test" />
+      <module name="helloworld-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rhtect.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.com.rhtect.math.Test" />
+        <item itemvalue="Application.com.rhtect.string.Test" />
+        <item itemvalue="Application.FZTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf3e5e8-f835-47f9-bde6-bd39278f3058" name="Changes" comment="" />
+      <created>1690989537551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690989537551</updated>
+      <workItem from="1690989538025" duration="2157000" />
+      <workItem from="1691191256196" duration="8415000" />
+      <workItem from="1691214906510" duration="6946000" />
+      <workItem from="1691328653007" duration="1438000" />
+      <workItem from="1692428660387" duration="4685000" />
+      <workItem from="1707091286695" duration="589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
